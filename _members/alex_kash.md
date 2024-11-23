@@ -1,6 +1,6 @@
 ---
 name: Alex Kash
-image: images/Alex photo.jpg
+image: images/Alex_photo.jpg
 role: Master Student
 affiliation: Lehigh University 
 ---
