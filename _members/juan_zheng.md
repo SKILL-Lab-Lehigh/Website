@@ -5,6 +5,7 @@ role: Assistant Professor
 description: Professor
 links:
   email: juz322@lehigh.edu
+  
 ---
 
   Dr. Juan Zheng is an Assistant Professor in the Department of Education and Human Services at Lehigh University and principal investigator of the STEM Knowledge Integration & Learning Lab (SKILL). She earned her Ph.D. in Learning Sciences from McGill University, Canada.
