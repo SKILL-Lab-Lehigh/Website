@@ -16,6 +16,5 @@ Her interdisciplinary research focuses on designing technology-enhanced learning
 - K-12 students’ AI literacy development through problem-solving with intelligent tutoring systems
 <br>
 <br>
-<br>
   Dr. Zheng’s innovative research methodology combines multimodal data collection, including facial expression analysis and physiological measurements, to conduct detailed examinations of learning processes. Her work bridges educational technology and learning sciences to advance understanding of how students learn and apply STEM knowledge effectively.
 Through the SKILL lab, she leads initiatives to develop and evaluate cutting-edge learning technologies that support students' STEM knowledge integration and real-world application. Her research aims to create more effective, engaging, and accessible STEM learning experiences through technology-enhanced environments.
