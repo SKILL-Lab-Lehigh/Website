@@ -1,6 +1,7 @@
 ---
 name: Joelle Dizon
 image: images/Joelle_photo.png
+role: undergrad
 description: Sophomore Student
 ---
 
