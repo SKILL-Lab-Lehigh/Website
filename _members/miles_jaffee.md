@@ -1,6 +1,7 @@
 ---
 name: Miles Jaffee
 image: images/Miles_Photo.jpeg
+role: undergrad
 description: Sophomore Student
   
 ---
