@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet the passionate researchers, educators, and innovators dedicated to transforming STEM education through cutting-edge technology and fresh ideas. Our team is driven by a shared curiosity and commitment to creating engaging, effective, and inclusive learning experiences for students everywhere. Together, we combine diverse expertise to tackle big questions and design innovative solutions that bridge the gap between learning and real-world application. Get to know the people behind the work and the vision that drives SKILL forward!
 
 {% include section.html %}
 
