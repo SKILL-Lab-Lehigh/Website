@@ -2,13 +2,12 @@
 title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Welcome to the news page of SKILL Lab! Here, we’ll share the latest updates, breakthroughs, and stories from our lab as we work to transform STEM education. Stay connected to discover exciting projects, research highlights, and opportunities to engage with our mission of creating innovative, technology-driven learning experiences. We’re glad to have you along for the journey!
 
 {% include section.html %}
 
