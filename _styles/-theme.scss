@@ -27,9 +27,9 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Noto Sans", sans-serif;
+  --heading: "Noto Sans", sans-serif;
+  --body: "Noto Sans", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
@@ -49,6 +49,6 @@
 
   // effects
   --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --shadow: 0 0 0 0 var(--overlay);
   --transition: 0.2s ease;
 }
